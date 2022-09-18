@@ -1,1 +1,1 @@
-# Mern_Booking_App
+# Bookstore App
